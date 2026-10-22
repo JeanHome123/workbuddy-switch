@@ -1,0 +1,20 @@
+# Publish only this explicit list. Local data, tests, tools, screenshots,
+# development notes, caches, archives and future files stay private by default.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/wbs.py
+!/安装.bat
+!/卸载.bat
+!/启动后台.vbs
+!/app/
+!/app/__init__.py
+!/app/agent.py
+!/app/cdp.py
+!/app/core.py
+!/app/watch.py
+!/app/win32.py
+!/inject/
+!/inject/panel.js
